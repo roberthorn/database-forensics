@@ -1,7 +1,8 @@
 # COMP5350 Digital Forensics Term Paper: Database Forensics
-
 Term paper for my Digital Forensics class discussing techniques and issues dealing with forensic investigations of relational database systems, specifically Oracle database systems. 
 
 ## Abstract
-
 Database forensics is still a relatively new branch of digital forensics. This can be due to the high complexity of relational database management systems or the major differences between these systems. But the number of security breaches of database systems is increasing, giving incentive to study the subject more closely. In this paper, we discuss areas of importance dealing with database forensics as well as techniques to use during a forensic investigation of a relational database management system with specific focus on Oracle database systems.
+
+## Introduction
+With the growth of the Internet comes an increase in cybercrime. The Internet is widely used for commercial transactions, and digital crime cannot always be prevented. Database forensics is a fairly new branch of digital forensics but is becoming more important field as the digital age progresses. Databases hold very critical information, making them critical assets in a forensic investigation. A challenge with database forensics is that there are many different database systems that require a vast knowledge of the system internals to perform a precise forensic analysis. For the sake of this paper, we will focus on Oracle databases, but will also discuss different items of importance in a forensic investigation of a general DBMS as well as different forensic analysis techniques.
