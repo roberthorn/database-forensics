@@ -1,4 +1,4 @@
-# Digital Forensics Term Paper: Database Forensics
+# COMP5350 Digital Forensics Term Paper: Database Forensics
 
 Term paper for my Digital Forensics class discussing techniques and issues dealing with forensic investigations of relational database systems, specifically Oracle database systems. 
 
